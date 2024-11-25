@@ -1,9 +1,7 @@
 <?php
 /* ----------- Arrrays ----------- */
 
-/*
-  If you need to store multiple values, you can use arrays. Arrays hold "elements"
-*/
+
 
 // Simple array of numbers
 $numbers = [1, 2, 3, 4, 5];
